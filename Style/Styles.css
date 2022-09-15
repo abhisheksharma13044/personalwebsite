@@ -1,0 +1,96 @@
+.topcontainer{
+  background-color: #97CEEE
+}
+body{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0;
+  text-align: center;
+}
+h1{
+  font-family: 'Merriweather', serif;
+  font-size: 5.625rem;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  color: #66BFBF
+}
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF
+}
+h3{
+  color: #47B5FF
+}
+p{
+  font-family: 'Montserrat', serif;
+}
+.Firstheading{
+  width: 10%
+  margin: 0px auto 0px auto;
+}
+.topcontainer{
+  padding-top: 50px;
+}
+.Headingpara{
+  margin-bottom: 0;
+}
+.Bottomcloud{
+  position: absolute;
+}
+.Topcloud{
+  position: absolute;
+  right: 10%;
+  top: 10px;
+}
+.skill{
+  width: 50px;
+  height: 50px;
+}
+.Writing{
+  height: 100px;
+  width: 100px;
+  float: right;
+  position: relative;
+  right: 200px;
+
+}
+.Computer{
+  height: 180px;
+  width: 180px;
+  float: left;
+  position: relative;
+  left: 120px;
+}
+h3{
+  width: 50%;
+  margin: 0px auto 0px auto;
+  text-align: left;
+  color: #11999E
+}
+.skillpara{
+  width: 50%;
+  margin: 0 auto 0 auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-row{
+  margin: 100px auto;
+}
+.hihi{
+  text-align:center;
+}
+.change{
+  color: #40514E
+}
+.HORI{
+  color: #EAF6F6
+}
+.COPYR{
+  color: #EAF6F6
+}
+.bottom-container{
+  background-color: #66BFBF
+}
+.footer-link{
+  color: #11999E
+}
